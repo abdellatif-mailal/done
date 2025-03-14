@@ -64,7 +64,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abdellatif-mailal/abdellatif-mailal/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Pacman animation" />
 
 ###
 
